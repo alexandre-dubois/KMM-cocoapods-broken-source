@@ -14,7 +14,7 @@ kotlin {
 
     cocoapods {
         homepage = "Link to the Shared Module homepage"
-        source = "{ :git => 'git@github.com:vkormushkin/kmmpodlibrary.git', :tag => '$version' }"
+        source = "{ :git => 'git@github.com:alexandre-dubois/KMM-cocoapods-broken-source.git', :tag => '$version' }"
         authors = "These are the authors"
         license = "{ :type => 'MIT', :text => 'License text'}"
         summary = "Some description for the Shared Module"

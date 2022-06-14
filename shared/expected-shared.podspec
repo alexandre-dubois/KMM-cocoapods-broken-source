@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'shared'
     spec.version                  = '1.0'
     spec.homepage                 = 'Link to the Shared Module homepage'
-    spec.source                   = { :git => 'git@github.com:vkormushkin/kmmpodlibrary.git', :tag => '1.0' }
+    spec.source                   = { :git => 'git@github.com:alexandre-dubois/KMM-cocoapods-broken-source.git', :tag => '1.0' }
     spec.authors                  = 'These are the authors'
     spec.license                  = { :type => 'MIT', :text => 'License text'}
     spec.summary                  = 'Some description for the Shared Module'
